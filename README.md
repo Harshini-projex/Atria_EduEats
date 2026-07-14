@@ -97,48 +97,6 @@ npm start
 
 ---
 
-# 💡 Future Enhancements
-
-- AI Chatbot for student queries
-- QR-based canteen order pickup
-- Attendance tracking
-- Timetable management
-- Placement portal
-- Bus tracking
-- Lost & Found system
-- Event registration
-- Faculty dashboard
-- Mobile application
-
-
-## 🎯 Objectives
-
-- Simplify campus life through digital services.
-- Provide quick access to academic resources.
-- Reduce waiting time in the canteen.
-- Improve communication between students and administration.
-- Encourage student participation in campus events.
-
-
-## 👥 Target Users
-
-- Students
-- Faculty
-- College Administration
-- Canteen Staff
-
-
-## 🔒 Security Features
-
-- User authentication
-- Secure login
-- Protected routes
-- Data validation
-- Role-based access (Admin/Student)
-
-
-
-
 ## 📄 License
 
 This project is developed for academic and educational purposes.
