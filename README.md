@@ -69,34 +69,6 @@ The project aims to improve campus convenience, reduce waiting times at the cant
 
 ---
 
-## 📂 Project Structure
-
-```
-Atria-EduEats/
-│
-├── client/
-│   ├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── pages/
-│
-├── server/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── middleware/
-│
-├── database/
-│
-├── README.md
-├── package.json
-└── .gitignore
-```
-
----
-
 ## 🚀 Installation
 
 ### Clone the repository
@@ -174,5 +146,3 @@ This project is developed for academic and educational purposes.
 
 
 
-This README is suitable for a **final-year/project exhibition** repository and follows the style commonly seen in professional GitHub projects.
-````
